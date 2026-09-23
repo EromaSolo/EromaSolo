@@ -19,9 +19,4 @@ I'm a **Cybersecurity student at Astana IT University** interested in programmin
 
 **Tools:** Git · GitHub · VS Code · Linux · Windows
 
-## 📫 Contact
-
-* 💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* 📧 Email: **YOUR_EMAIL**
-
 ### 🌱 Learn. Build. Improve.
