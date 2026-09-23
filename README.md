@@ -4,14 +4,14 @@
 
 I'm a **Cybersecurity student at Astana IT University** interested in programming, cybersecurity, game development, and technology.
 
-## 🚀 Currently Working On
+##  Currently Working On
 
-* 🔐 Cybersecurity & Networking
-* 🐍 Python & C#
-* 🎮 Game Development with **Unity 3D**
-* 💻 University & personal projects
+*  Cybersecurity & Networking
+*  Python & C#
+*  Game Development with **Unity 3D**
+*  University & personal projects
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 **Languages:** Python · C# · C++
 
